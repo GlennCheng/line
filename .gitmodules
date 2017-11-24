@@ -1,0 +1,3 @@
+[submodule "linebot-glenn-php"]
+	path = linebot-glenn-php
+	url = https://github.com/GlennCheng/linebot-glenn-php.git
